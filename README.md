@@ -81,7 +81,7 @@ This section provides plots to analyze the performance of the model trained with
 
 ![Training Progress](figures/Accuracy_loss_vs_Iterations.png)
 
-![Confusion Matrix for Test Data](figures/confusion_matrix.png)
+![Confusion Matrix for Test Data](figures/Confusion_Matrix.png)
 
 ## Future Work
 
