@@ -85,7 +85,7 @@ This section provides plots to analyze the performance of the model trained with
 
 ## Future Work
 
-- Extend to additional signal types and real RF datasets
+- Extend to additional signal types with noise and real RF datasets
 - Implement FPGA/embedded hardware deployment examples
 - Explore advanced AI models and pruning for better edge performance
 
